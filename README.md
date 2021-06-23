@@ -13,4 +13,4 @@ The variable names and descriptions are the following:
 As we have been able to see in the project, it has been concluded that alcohol consumption and the percentage of suicides are correlated with each other, we have also observed a small relationship with the capital power of these countries where these values were higher.
 
 
-This data set has been obtained through the following page: (https://www.kaggle.com/sansuthi/alcohol-consumption)
+This data set has been obtained through the following page: https://www.kaggle.com/sansuthi/alcohol-consumption
